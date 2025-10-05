@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://instagram.com/mvlllek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdillmalk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/themalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> 
+<a href="https://www.behance.net/themalek" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/065/386/503/non_2x/behance-logo-icon-be-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="leetcode" height="30" width="40" /></a> 
 <!-- <a href="https://www.linkedin.com/in/mvlek/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" width="40" /></a> -->
 </p>
 
