@@ -1,4 +1,4 @@
-<h1 align="center">Let's connect, I'm Malek Gadgoud</h1>
+<h1 align="center">Ready to build 💡, I'm Malek Gadgoud</h1>
 <!--<h3 align="center">Software Engineer</h3>-->
 
 <h3 align="left">Connect with me:</h3>
