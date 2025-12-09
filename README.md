@@ -4,9 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mvlllek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdillmalk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/themalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" /></a> 
+<a href="https://www.leetcode.com/themalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> 
 <!-- <a href="https://www.behance.net/themalek" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/065/386/503/non_2x/behance-logo-icon-be-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="leetcode" height="30" width="40" /></a> -->
- <a href="https://www.linkedin.com/in/mvlek/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-svg-download-png-1581908.png" alt="linkedin" height="30" width="40" /></a> 
+ <a href="https://www.linkedin.com/in/mvlek/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-svg-download-png-1581908.png" alt="linkedin" height="40" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
