@@ -26,10 +26,10 @@
 ---
 
 ### 🛠 Technology
-**Languages:** C, C++, Java, Python, PHP, JavaScript
-**Backend & Databases:** Laravel, MySQL, REST APIs
-**Tools:** Git, Linux, Bash, Postman, Figma
-**Other:** MATLAB
+* **Languages:** C, C++, Java, Python, PHP, JavaScript 
+* **Backend & Databases:** Laravel, MySQL, REST APIs
+* **Tools:** Git, Linux, Bash, Postman, Figma
+* **Other:** MATLAB
 
 ---
 
