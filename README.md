@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malek Gadgoud</h1>
+<h1 align="center">I'm Malek Gadgoud</h1>
 <h3 align="center">Backend Developer</h3>
 
 ---
