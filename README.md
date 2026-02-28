@@ -1,35 +1,50 @@
-# Malek Gadgoud  
-### Backend Developer
-
-Backend-focused developer building REST APIs and data-driven systems.  
-Currently studying *Designing Data-Intensive Applications* to deepen system design knowledge.
+<h1 align="center">Hi 👋, I'm Malek Gadgoud</h1>
+<h3 align="center">Backend Developer | Building Scalable Systems</h3>
 
 ---
 
-## 📬 Contact
-- Email: a.elgadgoud@uot.edu.ly  
-- LinkedIn: https://linkedin.com/in/mvlek 
+### 🚀 About Me
+
+* Backend developer focused on clean APIs and solid database design
+* Currently learning **Designing Data-Intensive Applications**
+* Interested in microservices, system design, and competitive programming
+* 📫 Contact: **[a.elgadgoud@uot.edu.ly](mailto:a.elgadgoud@uot.edu.ly)**
 
 ---
 
-## 🛠 Tech Stack
+### 🔗 Connect With Me
 
-**Backend**
-- PHP, Laravel  
-- MySQL  
-- REST APIs  
-
-**Programming**
-- C, C++, Java, Python, JavaScript, PHP
-
-**Tools & Platforms**
-- Git, Linux, Bash, Postman   
-- MATLAB  
-- Figma  
+<p align="left">
+<a href="https://linkedin.com/in/mvlek" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/themalik" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 🎯 Focus
-- Scalable backend architecture  
-- Clean API design  
-- Data modeling and storage internals  
+### 🛠 Technology
+
+**Languages:** C, C++, Java, Python, PHP, JavaScript
+**Backend & Databases:** Laravel, MySQL, REST APIs
+**Tools:** Git, Linux, Bash, Postman, Figma
+**Other:** MATLAB
+
+---
+
+### 📌 Current Focus
+
+* Writing cleaner backend architecture
+* Improving system design skills
+* Solving competitive programming problems consistently
+
+---
+
+### 📈 Goals for 2026
+* Master database indexing and performance tuning
+
+---
+
+⭐ *Always building, always improving.*
