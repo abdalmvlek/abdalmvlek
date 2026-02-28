@@ -8,8 +8,7 @@ Currently studying *Designing Data-Intensive Applications* to deepen system desi
 
 ## 📬 Contact
 - Email: a.elgadgoud@uot.edu.ly  
-- LinkedIn: https://linkedin.com/in/mvlek  
-- LeetCode: https://leetcode.com/themalik  
+- LinkedIn: https://linkedin.com/in/mvlek 
 
 ---
 
@@ -24,9 +23,7 @@ Currently studying *Designing Data-Intensive Applications* to deepen system desi
 - C, C++, Java, Python, JavaScript  
 
 **Tools & Platforms**
-- Git, Linux, Bash, Postman  
-- TailwindCSS  
-- Flutter, Dart  
+- Git, Linux, Bash, Postman   
 - MATLAB  
 - Figma  
 
