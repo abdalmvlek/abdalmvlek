@@ -20,7 +20,7 @@ Currently studying *Designing Data-Intensive Applications* to deepen system desi
 - REST APIs  
 
 **Programming**
-- C, C++, Java, Python, JavaScript  
+- C, C++, Java, Python, JavaScript, PHP
 
 **Tools & Platforms**
 - Git, Linux, Bash, Postman   
