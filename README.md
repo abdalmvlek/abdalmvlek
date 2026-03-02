@@ -1,5 +1,5 @@
 <!-- <h1 align="center">I'm Malek Gadgoud</h1> -->
-<h3>Backend Developer</h3>
+<h3>Malek Gadgoud</h3>
 
 ---
 
