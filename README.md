@@ -1,6 +1,8 @@
 <!-- <h1 align="center">I'm Malek Gadgoud</h1> -->
 <h3>Malek Gadgoud</h3>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalmvlek&show_icons=true&theme=radial)
+
 ---
 
 ### 🚀 About Me
