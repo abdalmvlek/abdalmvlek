@@ -28,7 +28,7 @@
 ### 🛠 Technology
 * **Languages:** C, C++, Java, Python, PHP, JavaScript 
 * **Backend & Databases:** Laravel, MySQL, REST APIs
-* **Tools:** Git, Linux, Postman, Figma
+* **Tools:** Git, Linux, Postman, SSH, Figma
 * **Other:** MATLAB
 
 ---
