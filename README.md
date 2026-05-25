@@ -3,6 +3,9 @@
 
 * 📫 Contact: **[a.elgadgoud@uot.edu.ly](mailto:a.elgadgoud@uot.edu.ly)**
 
+### LeetCode status
+![](https://leetcard.jacoblin.cool/themalik?ext=activity)
+
 ---
 
 ### 🔗 Connect With Me
