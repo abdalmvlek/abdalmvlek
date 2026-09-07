@@ -5,9 +5,8 @@
 
 ### 🚀 About Me
 
-* Backend developer focused on clean APIs and solid database design
 * Currently learning **Designing Data-Intensive Applications**
-* Interested in microservices, system design, and competitive programming
+* Interested in product management, microservices, system design, and competitive programming
 * 📫 Contact: **[a.elgadgoud@uot.edu.ly](mailto:a.elgadgoud@uot.edu.ly)**
 
 ---
@@ -25,24 +24,5 @@
 
 ---
 
-### 🛠 Technology
-* **Backend & Databases:** Laravel, MySQL, REST APIs
-* **Tools:** Git, Linux, Postman, SSH, Figma
-* **Other:** MATLAB
-
----
-
-### 📌 Current Focus
-
-* Writing cleaner backend architecture
-* Improving system design skills
-* Solving competitive programming problems consistently
-
----
-
-### 📈 Goals for 2026
-* Master database indexing and performance tuning
-
----
 
 ⭐ *Always building, always improving.*
